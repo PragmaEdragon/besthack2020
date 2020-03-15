@@ -7,7 +7,7 @@
 * * *
 ## Rest API
 Swagger was used to implement rest api. Alas, we did not have much time to implement it. 
-The only thing he can do is read files from the "static" section
+The only thing this thing can do is read files from the "static" section
 * * *
 ## Technology stack
 + ~~Django~~ ` Flask `
